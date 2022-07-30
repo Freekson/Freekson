@@ -14,7 +14,7 @@ Hello there 👋 I am <a href="https://github.com/Freekson">Yehor Dreval</a>!
     <div style="width: 100%;">
         <img style="width: 90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dreval&theme=gruvbox&layout=compact)" />
     </div>
-    <div style="width: 100%;">
+    <div style="width: 100%;  border: 1px solid #fff;">
         <img style="width: 90%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freekson&theme=gruvbox" />
     </div>  
 </div>

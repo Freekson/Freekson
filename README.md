@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there 👋 I am <a href="https://t.me/freekson">Yehor Dreval</a>!
+Hello there 👋 I am <a href="https://www.linkedin.com/in/yehor-dreval-1634b4207/">Yehor Dreval</a>!
 </h1>
 
 ## My Github Stats

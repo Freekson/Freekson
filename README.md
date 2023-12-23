@@ -7,26 +7,22 @@ Hello there 👋 I am <a href="https://www.linkedin.com/in/yehor-dreval-1634b420
 
 - 🌱 I’m currently learning: **TypeScript, improving React knowledge**
 
-- 📫 How to reach me: by [telegram](https://t.me/freekson) or by mail: _freeksons@gmail.com_
+- 📫 How to reach me: by [telegram](https://t.me/freekson) or by mail: freeksons@gmail.com
 
-- 📄  Know about my experiences: [resume](https://drive.google.com/file/d/1Mj9bihkueSSG7MN2Mq-vjKL02yMZzyNY/view?usp=sharing)
+- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1Mj9bihkueSSG7MN2Mq-vjKL02yMZzyNY/view?usp=sharing)
 
---- 
+---
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; width: 100%; flex-direction: column; align-items: center;">
-    <div style= " display: flex; justify-content: center; width: 100%;">
-        <img src="https://raw.githubusercontent.com/Freekson/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="stats" />
-        <img src="https://raw.githubusercontent.com/Freekson/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="stats"  />
-    </div>
-    
+<div style= "display: flex; justify-content:center; width: 100vh;">
+  <img src="https://raw.githubusercontent.com/Freekson/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Freekson/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="stats"  />
 </div>
 
 <br>
 
-
-<div style="display: flex; width: 100%; flex-direction: column; align-items: center;">
+<div style="display: flex; width: 100vh; flex-direction: column; align-items: center;">
     <div style="width: 100%;">
         <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Freekson&theme=react&layout=compact&hide_progress=true" />
     </div>
@@ -35,7 +31,7 @@ Hello there 👋 I am <a href="https://www.linkedin.com/in/yehor-dreval-1634b420
 
 # ⚡ Favorite Tech
 
-<table>
+<table style="display: flex; justify-content:center; width: 100vh;">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -50,8 +46,8 @@ Hello there 👋 I am <a href="https://www.linkedin.com/in/yehor-dreval-1634b420
       <br>JavaScript
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="Docker" />
+     <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
       </a>
       <br>React
     </td>

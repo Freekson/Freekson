@@ -9,7 +9,7 @@ Hello there 👋 I am <a href="https://www.linkedin.com/in/yehor-dreval-1634b420
 
 - 📫 How to reach me: by [telegram](https://t.me/freekson) or by mail: freeksons@gmail.com
 
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1Mj9bihkueSSG7MN2Mq-vjKL02yMZzyNY/view?usp=sharing)
+- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1F-l3EB4PsbEsm9wuEmaZeeuySjFxRFie/view?usp=sharing)
 
 ---
 

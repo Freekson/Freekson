@@ -3,7 +3,7 @@ Hello there 👋 I am <a href="https://www.linkedin.com/in/yehor-dreval-1634b420
 
 <h3 align="center">I'm Frontend Developer from Ukraine</h3>
 
-- 🔭 I’m currently working in: [Meduzzen](https://github.com/Freekson/solvd.laba](https://www.linkedin.com/company/meduzzen/))
+- 🔭 I’m currently working in: [Meduzzen](https://www.linkedin.com/company/meduzzen/)
 
 - 🌱 I’m currently learning: **TypeScript, improving React knowledge**
 
